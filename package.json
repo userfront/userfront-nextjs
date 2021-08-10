@@ -1,6 +1,6 @@
 {
   "name": "@userfront/nextjs",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Userfront Next.js binding",
   "source": "src/index.js",
   "main": "build/userfront-nextjs.js",
