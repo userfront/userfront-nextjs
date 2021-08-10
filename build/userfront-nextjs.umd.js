@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t(require("@userfront/react")):"function"==typeof define&&define.amd?define(["@userfront/react"],t):(e=e||self).nextjs=t(e.UserfrontReact)}(this,function(e){e=e&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e;const t={};for(const n in e)t[n]||(t[n]=e[n]);return t});
+//# sourceMappingURL=userfront-nextjs.umd.js.map
