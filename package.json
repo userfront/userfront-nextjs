@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/userfront/userfront-nextjs#readme",
   "dependencies": {
-    "@userfront/react": "^0.2.18",
+    "@userfront/react": "^0.2.20",
     "jsonwebtoken": "^8.5.1",
     "next-cookies": "^2.0.3"
   },
